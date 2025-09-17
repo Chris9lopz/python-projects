@@ -1,0 +1,294 @@
+ID,Gender,Age,Experiencia laboral,Años de educación,Estado civil,Salary,Buyer
+0,male,42,26,15,Estado civil,2931000,SI
+1,female,71,63,4,Union libre,3273000,NO
+2,female,36,20,10,Union libre,2258000,SI
+3,female,31,23,4,Divorciado,4000000,SI
+4,male,61,59,8,Union libre,3001000,SI
+5,female,21,19,6,Casado,3600000,SI
+6,female,52,34,9,Union libre,2764000,SI
+7,male,-42,22,2,Divorciado,3500000,SI
+8,female,38,19,16,,1100000,SI
+9,male,19,17,9,Divorciado,2998000,NO
+10,male,55,40,9,Union libre,4100000,NO
+11,female,33,18,9,,2316000,SI
+12,male,31,26,13,Soltero,1000000,NO
+13,female,49,25,6,Divorciado,3100000,NO
+14,female,34,23,17,Divorciado,2168000,SI
+15,female,48,48,22,Casado,2446000,SI
+16,female,33,33,11,,2735000,NO
+17,female,21,18,7,,-6900000,SI
+18,female,38,22,12,Divorciado,7100000,SI
+19,female,41,36,18,Soltero,8200000,SI
+20,male,39,21,15,Union libre,2836000,NO
+21,female,26,19,10,Union libre,3100000,NO
+22,male,79,68,17,Union libre,3328000,SI
+23,female,33,26,5,Divorciado,3600000,NO
+24,male,78,16,30,,2883000,SI
+25,female,34,23,4,,1000000,NO
+26,male,31,30,4,,2763000,SI
+27,male,47,37,18,Soltero,2629000,SI
+28,male,55,52,16,Casado,2790000,SI
+29,female,39,19,16,Casado,2534000,SI
+30,female,25,20,6,,2200000,NO
+31,female,31,15,7,Divorciado,2336000,SI
+32,female,29,26,11,,2609000,NO
+33,female,56,56,18,Casado,3029000,NO
+34,female,41,30,9,Casado,1900000,SI
+35,female,22,16,6,Casado,2384000,NO
+36,female,52,47,20,,4700000,NO
+37,,52,15,16,,3700000,SI
+38,female,63,21,18,Casado,2936000,NO
+39,female,73,55,22,Union libre,3108000,NO
+40,male,78,50,35,,3463000,NO
+41,male,68,18,18,Casado,3288000,NO
+42,male,24,21,4,Union libre,2570000,SI
+43,male,41,,14,Soltero,2524000,SI
+44,female,69,29,25,Casado,2655000,SI
+45,male,43,16,8,,2463000,SI
+46,female,43,25,21,Soltero,2400000,Si
+47,female,40,35,6,,2153000,SI
+48,Male,48,39,13,Union libre,2886000,SI
+49,female,61,16,24,Soltero,2501000,SI
+50,female,65,65,14,Union libre,3098000,NO
+51,female,35,16,5,Union libre,2227000,SI
+52,female,36,17,12,Union libre,1700000,NO
+53,male,40,17,6,Soltero,3600000,NO
+54,female,53,32,9,Union libre,2603000,SI
+55,female,28,22,4,,2206000,SI
+56,male,64,21,30,Soltero,3121000,NO
+57,female,69,,,Soltero,2715000,SI
+58,Female,53,28,8,Union libre,2000000,SI
+59,male,39,19,14,Soltero,3500000,SI
+60,female,58,20,20,Divorciado,2603000,SI
+61,female,48,30,24,,5000000,SI
+62,female,64,59,12,Soltero,3119000,NO
+63,male,72,54,25,Divorciado,3288000,NO
+64,male,25,20,10,Casado,2675000,Si
+65,male,48,25,11,Divorciado,2544000,SI
+66,female,45,41,18,Union libre,2596000,SI
+67,male,48,33,5,,3200000,SI
+68,female,52,16,26,Divorciado,2200000,SI
+69,female,49,28,15,Casado,2526000,SI
+70,female,47,21,23,,2385000,SI
+71,female,71,40,13,Casado,3288000,NO
+72,female,46,17,8,Union libre,2485000,SI
+73,female,39,35,8,Union libre,3700000,No
+74,female,26,23,5,Casado,2801000,NO
+75,male,54,48,7,Divorciado,2736000,SI
+76,male,79,37,14,Casado,3218000,SI
+77,female,52,,24,Union libre,2632000,NO
+78,male,76,30,22,Union libre,2921000,SI
+79,female,28,17,11,Union libre,1700000,NO
+80,female,45,45,8,,0,NO
+81,male,76,48,37,Soltero,3121000,SI
+82,female,22,17,9,,2047000,SI
+83,female,53,,19,Union libre,1900000,SI
+84,female,41,37,5,Casado,5000000,NO
+85,male,68,16,24,Soltero,2877000,SI
+86,male,24,15,4,Union libre,800000,No
+87,male,44,32,15,Union libre,4900000,NO
+88,male,39,26,13,Soltero,3700000,NO
+89,male,54,54,16,Union libre,3800000,NO
+90,female,41,33,4,Casado,2600000,SI
+91,,20,17,7,,3000000,SI
+92,male,48,39,20,,2926000,SI
+93,female,49,27,23,Casado,2638000,SI
+94,male,42,39,16,Divorciado,2890000,SI
+95,male,48,17,7,Soltero,800000,SI
+96,female,68,36,10,Union libre,3290000,NO
+97,female,44,20,12,Union libre,-2400000,NO
+98,male,44,29,7,Soltero,500000,NO
+99,,64,58,21,Divorciado,2961000,NO
+100,male,26,19,4,Divorciado,2495000,SI
+101,male,25,24,7,Divorciado,2915000,No
+102,female,23,19,10,Casado,3200000,NO
+103,female,70,62,34,Divorciado,3139000,NO
+104,male,36,30,12,Soltero,2596000,SI
+105,male,40,29,17,Casado,3151000,NO
+106,female,40,18,4,Union libre,2220000,SI
+107,female,41,27,9,Soltero,2792000,NO
+108,female,36,35,12,,2313000,SI
+109,male,18,16,5,Divorciado,2659000,NO
+110,female,69,35,21,Soltero,2912000,SI
+111,FEMALE,28,17,5,Soltero,2796,NO
+112,male,22,19,4,Divorciado,3100000,NO
+113,female,34,24,8,Divorciado,2237000,SI
+114,male,50,40,13,Casado,2573000,SI
+115,female,43,18,21,Soltero,4800000,SI
+116,male,37,32,4,Casado,2690000,si
+117,male,36,21,5,Soltero,2870000,NO
+118,female,21,21,8,Casado,2607000,NO
+119,male,26,16,4,,1000000,NO
+120,female,48,35,8,Divorciado,2647000,NO
+121,female,19,15,9,,2059000,SI
+122,male,32,30,11,Union libre,2738000,NO
+123,female,26,16,12,Soltero,2505000,NO
+124,female,78,43,17,Divorciado,3074000,SI
+125,female,32,27,15,Union libre,2306000,SI
+126,male,64,52,5,,2953000,SI
+127,female,50,47,8,Union libre,6200000,NO
+128,male,54,28,4,,2100000,NO
+129,female,41,15,16,Union libre,2598000,NO
+130,female,50,18,10,Divorciado,2380000,SI
+131,female,66,49,20,Union libre,2645000,SI
+132,male,64,,,Union libre,3145000,NO
+133,male,49,18,7,Union libre,2546000,SI
+134,male,32,15,6,Divorciado,2395000,Si
+135,male,4,,,Soltero,3315000,NO
+136,male,42,16,11,Divorciado,1200000,SI
+137,male,38,17,18,,2985000,NO
+138,male,51,24,20,Soltero,4500000,SI
+139,male,72,63,9,Divorciado,3626000,NO
+140,female,71,65,7,,2666000,SI
+141,female,44,40,21,,2325000,SI
+142,male,27,15,11,Casado,5500000,NO
+143,female,67,58,18,,2968000,NO
+144,male,20,15,5,,2354000,SI
+145,male,37,24,11,Divorciado,3184000,NO
+146,male,27,,9,Divorciado,3060000,NO
+147,male,75,37,27,Divorciado,2924000,SI
+148,female,68,,,,3266000,NO
+149,,59,48,7,Casado,2860000,
+150,male,31,26,7,Casado,2564000,SI
+151,female,59,18,9,Soltero,3159000,NO
+152,female,40,34,14,,4500000,NO
+153,,74,49,25,Soltero,2621000,
+154,male,32,22,4,Soltero,6500000,
+155,female,44,22,17,Divorciado,2316000,SI
+156,female,22,20,6,,-2600000,NO
+157,FEMALE,29,27,12,Divorciado,5500000,NO
+158,male,27,20,10,,5900000,NO
+159,male,39,24,6,Casado,3096000,NO
+160,male,19,19,8,Casado,3400000,SI
+161,male,25,15,8,Casado,2997000,NO
+162,female,29,16,9,,2307000,SI
+163,male,33,28,7,Soltero,900000,SI
+164,male,56,24,20,Divorciado,2876000,SI
+165,male,35,22,17,,1900000,si
+166,,42,26,8,Divorciado,2700000,Si
+167,female,45,29,9,Union libre,2217000,SI
+168,male,60,51,9,Divorciado,2772000,SI
+169,female,25,21,12,Soltero,2631000,NO
+170,female,45,33,11,Divorciado,3000000,NO
+171,male,68,19,6,Divorciado,3442000,NO
+172,female,51,16,4,Soltero,2720000,NO
+173,male,61,,21,Soltero,3360000,NO
+174,male,34,18,10,Soltero,5900000,NO
+175,male,68,20,32,,3465000,NO
+176,female,27,25,7,,4400000,NO
+177,male,7,,,Soltero,4300000,SI
+178,female,45,41,21,,2216000,SI
+179,male,39,33,10,Union libre,-3700000,NO
+180,female,50,15,8,Casado,2691000,NO
+181,female,62,29,23,Casado,2713000,SI
+182,female,53,53,12,,2508000,SI
+183,female,35,20,6,,2500000,si
+184,male,66,63,15,Union libre,3444000,NO
+185,female,5,15,25,Union libre,900000,NO
+186,female,54,21,15,Divorciado,4200000,SI
+187,male,77,52,17,Casado,3577000,NO
+188,female,18,16,8,Union libre,2615000,NO
+189,MALE,35,28,5,Divorciado,700000,SI
+190,female,52,20,8,Divorciado,2992000,NO
+191,male,45,25,19,Soltero,2883000,SI
+192,male,46,46,21,,3014000,NO
+193,female,46,29,6,Soltero,1200000,NO
+194,male,71,44,9,Soltero,3151000,SI
+195,male,43,25,13,Casado,3237000,NO
+196,male,79,46,35,Union libre,3339000,NO
+197,male,62,45,19,Union libre,2938000,SI
+198,male,34,23,14,Union libre,3045000,NO
+199,female,52,41,23,Soltero,2848000,NO
+200,female,44,33,4,Union libre,2264000,SI
+201,female,34,23,4,Soltero,1700000,NO
+202,female,10,,4,,2448000,NO
+203,male,54,24,23,Casado,3161000,NO
+204,female,50,46,14,Soltero,2200000,NO
+205,female,53,15,12,Soltero,3300000,SI
+206,male,20,20,6,Divorciado,2191000,SI
+207,female,54,49,15,Soltero,2882000,NO
+208,male,73,71,25,Soltero,3260000,
+209,female,27,20,7,Casado,5600000,NO
+210,male,47,47,5,Soltero,300000,SI
+211,Male,36,27,6,Union libre,5400000,Si
+212,male,51,30,24,Union libre,2999000,NO
+213,,23,15,5,,2135000,
+214,female,52,36,26,Union libre,3046000,NO
+215,male,35,32,16,Union libre,3008000,NO
+216,male,61,,23,Union libre,3035000,NO
+217,female,24,19,11,,2499000,NO
+218,male,48,34,16,Casado,1700000,NO
+219,male,75,39,35,Soltero,3283000,SI
+220,female,78,21,34,Union libre,3036000,SI
+221,female,46,42,9,Divorciado,2737000,NO
+222,female,80,35,18,Divorciado,2800000,SI
+223,female,45,25,6,Divorciado,2641000,NO
+224,MALE,36,28,16,Divorciado,3210000,NO
+225,female,51,40,11,Union libre,2900000,SI
+226,male,210,78,75,,900000,NO
+227,female,18,15,7,Soltero,4600000,NO
+228,male,62,52,22,Casado,3302000,NO
+229,male,75,51,20,Soltero,3180000,SI
+230,female,43,20,16,Soltero,2809000,NO
+231,male,75,50,5,Casado,3068000,SI
+232,male,43,21,9,Union libre,2650,SI
+233,male,49,37,5,Union libre,3011000,SI
+234,female,55,51,26,Casado,4200000,SI
+235,female,76,71,19,Casado,2598000,SI
+236,male,34,27,15,Union libre,1300000,NO
+237,male,19,17,9,Casado,2700000,NO
+238,male,34,20,4,Casado,2651000,SI
+239,female,69,48,4,Casado,3280000,NO
+240,female,71,68,4,Divorciado,2623000,SI
+241,female,29,26,11,Soltero,100000,NO
+242,male,71,58,14,Union libre,3086000,SI
+243,female,54,39,15,,4600000,SI
+244,female,44,32,11,Casado,1900000,NO
+245,female,67,52,19,Casado,2761000,SI
+246,male,42,15,20,Casado,4100000,NO
+247,male,29,26,8,Casado,800000,SI
+248,female,53,19,15,Casado,2287000,SI
+249,Male,27,27,9,Divorciado,4500000,SI
+250,,64,40,8,Union libre,2496000,
+251,,44,44,8,Union libre,4900000,SI
+252,female,23,20,10,Casado,2710000,NO
+253,male,45,23,5,Soltero,6500000,NO
+254,male,70,58,17,Casado,3172000,SI
+255,female,60,51,13,Union libre,2731000,SI
+256,male,48,28,15,Divorciado,6600000,SI
+257,female,68,20,17,Soltero,2915000,NO
+258,male,76,62,15,,3658000,NO
+259,female,23,22,5,Union libre,2238000,SI
+260,female,54,19,24,,2905000,NO
+261,female,25,16,11,Casado,2399000,SI
+262,male,57,39,24,,2999000,SI
+263,male,46,40,5,Divorciado,2846000,NO
+264,female,75,47,16,,3356000,NO
+265,female,45,27,8,Divorciado,2413000,SI
+266,female,2,4,10,Casado,200000,NO
+267,male,29,22,4,Divorciado,3000000,SI
+268,male,43,18,21,Divorciado,3700000,NO
+269,male,19,18,9,Divorciado,2239000,SI
+270,female,39,19,16,Divorciado,2399000,SI
+271,female,-24,4,15,Casado,3300000,NO
+272,male,25,21,4,Union libre,2925000,NO
+273,male,23,16,10,Casado,2900000,SI
+274,male,54,31,8,Divorciado,3058000,SI
+275,female,69,65,22,Casado,2896000,NO
+276,Female,52,36,4,Divorciado,1700000,SI
+277,female,46,17,6,Soltero,2444000,SI
+278,female,40,38,12,Divorciado,2962000,NO
+279,male,18,16,9,,400000,SI
+280,male,29,27,8,Soltero,2724000,NO
+281,female,38,31,8,Casado,2520000,NO
+282,female,21,19,7,Divorciado,1600000,NO
+283,male,24,18,12,Soltero,2377000,SI
+284,female,50,30,14,Casado,2710000,NO
+285,male,79,28,5,,3679000,no
+286,male,65,45,17,Divorciado,3058000,SI
+287,female,60,48,8,Casado,3013000,NO
+288,male,36,28,5,Divorciado,4900000,SI
+289,male,32,21,14,Soltero,3500000,NO
+290,female,47,19,4,Casado,2289000,SI
+291,female,62,48,26,Soltero,2985000,NO
+292,MALE,34,31,12,,4200000,No
